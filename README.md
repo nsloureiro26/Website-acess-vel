@@ -1,5 +1,5 @@
 # Website-acess-vel
-Protótipo de um website em construção com interface, pluggins e softwares woltados para atender as demandas das pessoas com deficiência, especialmente pessoas com daltonismo, baixa visão, visão monocular. Por isso, você conseguirá ver a codificação para pluggins de leitores de tela e leitura em braille.
+Protótipo de um website em construção com interface, pluggins e softwares woltados para atender as demandas das pessoas com deficiência, especialmente pessoas com daltonismo, baixa visão, visão monocular. Por isso, você conseguirá ver a codificação para pluggins de leitores de tela e leitura em LIBRAS.
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
