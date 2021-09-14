@@ -4,7 +4,7 @@ Protótipo de um website em construção com interface, pluggins e softwares wol
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="author" content="Nayara">
+    <meta name="author" content="Nayara dos Santos ">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projeto 1</title>
 
